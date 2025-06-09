@@ -29,7 +29,14 @@
         "value": 0.1
       }
     },
-    "components": {
+    "components": 
+    "minecraft:script": {
+  "scripts": {
+    "client": ["scripts/jet_plane_client.js"],
+    "server": []
+  }
+}
+    {
       "minecraft:interact": {
         "interact_text": "Ride Jet"
       },
