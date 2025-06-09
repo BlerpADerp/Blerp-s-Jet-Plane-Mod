@@ -1,0 +1,16 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Jet Plane Resource Pack",
+    "description": "Adds the model and texture for the Jet Plane.",
+    "uuid": "e133b57b-fb40-4209-a8a4-5df11b3ad47a",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "42d93295-72d6-464c-9fca-68968ba2546d",
+      "version": [1, 0, 0]
+    }
+  ]
+}
