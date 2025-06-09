@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "blerp:jet_plane",
+      "materials": {
+        "default": "entity_jet_plane"
+      },
+      "textures": {
+        "default": "textures/entity/jet_plane"
+      },
+      "geometry": {
+        "default": "geometry.jet_plane"
+      },
+      "animations": {
+        "fly": "animation.jet_plane.fly"
+      },
+      "render_controllers": ["controller.render.jet_plane"],
+      "enable_attachables": false
+    }
+  }
+}
